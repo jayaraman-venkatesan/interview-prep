@@ -20,9 +20,7 @@ public class EmployeeController {
 	private EmployeeService empService;
 	
 	public EmployeeController(EmployeeServiceImpl employeeServiceImpl) {
-		
-		this.empService = employeeServiceImpl;
-		
+		this.empService = employeeServiceImpl;		
 	}
 	
 	
