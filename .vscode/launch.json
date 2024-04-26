@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-InterviewPrepApplication<interview-prep>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.interview.interviewprep.InterviewPrepApplication",
+            "projectName": "interview-prep",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
